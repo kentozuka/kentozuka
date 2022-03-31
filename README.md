@@ -1,4 +1,4 @@
-👀
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- - 👋 Hi, I’m @kentozuka
 - 👀 I’m interested in ... Frontend development
